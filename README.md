@@ -5,4 +5,4 @@ This is the code repository for the Python Automation book--><a href="https://it
 # Communication
 QQ群：93314951
 <br>
-微信公众号：幼稚猿
+微信公众号：科技小猿
